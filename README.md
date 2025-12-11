@@ -20,5 +20,5 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-* first github repositry
+* first github repository of ruby on rails pracitce
 * ...
